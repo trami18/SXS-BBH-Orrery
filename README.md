@@ -1,10 +1,6 @@
 # SXS-BBH-Orrery
 This repo has everything you need in order to create your own BBH Orrery.
 
-
-
-
-# Visualizing-bbh-Simulations
 &#x1F539; These are instructions for how to create a visualization of one or more bbh collisions  using preview. I have multiple scripts that you can use. You can find the scripts you will need here for now: git@github.com:sxs-collaboration/bbh-orrery.git
 
 ## Functions of each script
