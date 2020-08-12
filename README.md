@@ -7,11 +7,9 @@ This repo has everything you need in order to create your own BBH Orrery.
 
 :wavy_dash: IMPORTANT: All of these scripts need to be in the same directory!!! 
 
-- Mega_Csv_Writer.py, creates csv files that contains everything needed for the main script. 
+- ```OrreryGuts.py``` creates csv files that contains everything needed for the main script.creates csv files containing a list of shift times for each specific simulation in the order. 
 
-- get_post_shift.py, creates csv files containing a list of shift times for each specific simulation in the order. 
-
--  PreRingdown_Overhead.py and Ringdown_Overhead.py, are the scripts that load   everything in paraview ready to create animation. 
+-  ```Inspiral.py``` and ```Ringdown.py``` are the scripts that load everything in paraview ready to create animation. 
 
 - Gravitational Wave Plot Script , creates png of wave plots with transparent background. 
 
